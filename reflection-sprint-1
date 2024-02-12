@@ -1,0 +1,12 @@
+1 How would you describe the command line in plain English in a couple of sentences? Can you think of an analogy for it?
+  The command line is like cooking, you have the chef who's like a computer that follows the recipe that's like the code
+2 Did I stick to the timebox guidelines? If not, what change would I make next time?
+  I did not stick to the guidelines, I went a bit over time for all of them and next time I would get all my tech problems solved beforehand so they don't interrupt the time I am putting into working on the tasks
+3 Name five commands I used and what they do.
+  I used mkdir to make my "workspace" directory
+  I used touch to make the three text files
+  I used code . to open my VSCode straight from the Command Line
+  I used explorer.exe . to open up my file explorer
+  I used git status to check the status of the files I've pushed and pulled
+4 Did I learn anything unexpected?
+  I found out it was easier than expected to actually create and edit the files, I thought it'd be a massibe job but from what I can see it's actually quite easy and simple to do!
