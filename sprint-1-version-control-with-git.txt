@@ -23,15 +23,3 @@ Do you think you'd still remember the difference a week from now if you didn't r
 
 Did you stick to the timebox suggestions?
   I did however I was quicker than anticipated so I am finishing well ahead of schedule!
-
-
-Install and Explore Git
-
-    What is Git Workflow:
-      Git workflow is a way or recommendation on how to use Git to complete goals in a quick and easy flowing way. It helps developer teams to use Git efficiently and consistently
-
-    What did you notice about your learning? What did you do when you were confused or blocked?
-      When I was confused or blocked I read over the material again and then searched up on google to see if others had the same problems. When I was past that stage I took a little break and came back after 5-10 minutes
-
-    Is there anything you'd do differently if you were to repeat the learning exploration?
-      No! This time I am happy with my learning exploration and how long it took me to complete the tasks at hand!
