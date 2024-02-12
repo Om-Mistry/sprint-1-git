@@ -1,0 +1,25 @@
+What is Version Control?
+  Version control allows multiple people to work on the same lines of code. It lets you track what you and your colleagues are working on so you don't clash and override changes. It will tell you when you'll override other peoples changes while letting you look at what they do on the code as well.\
+
+
+What is Git?
+  Git is what is installed on our local machine. Your colleagues will also have Git which is installed on their machines and you need some way to get them to sync up easily.
+
+What is Github?
+  Github is centrally sourced which means you and your colleages can pull/push changes from the cloud. It allows you to easily work together on this centralized server
+
+
+What's the difference between Git and Github?
+  The difference between Git and Github is that Git is installed locally on your machine and is where you do your code work but Github is what you use to collaberate and push/pull your work to the cloud so others can check what you've done and you can check what they've done.
+
+
+Can you think of an analogy to describe them?
+  If you're driving a car your entire body is is Github but your brain because it's controlling you that's controlling the car is Git because it's controlling Github
+
+
+Do you think you'd still remember the difference a week from now if you didn't revise the material?
+  I might be able to but I'll probably just keep looking at the material to make sure I get it in my head at how they're different and what they're used for
+
+
+Did you stick to the timebox suggestions?
+  I did however I was quicker than anticipated so I am finishing well ahead of schedule!
