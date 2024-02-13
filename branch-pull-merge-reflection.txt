@@ -1,0 +1,8 @@
+What is main?
+  Main is the master branch created when you make a git repository (git init). It's the main integration branch where changes from other  branches are merged.
+
+Why create a branch?
+  You create a branch so you have a copy of the existing work which lets you work on it experimenting with things without affecting the main branch
+
+Do the concepts introduced feel difficult to understand?
+  I think initally yes I am a bit confused at the concepts however I feel like as time goes on and I work more within Git and Github I'll gain a better understanding of everything!
